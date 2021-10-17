@@ -1,0 +1,16 @@
+ we will preform Linear regression on multiple variables.
+
+ three member functions: 
+ 1. Mean 
+ 2.Standard deviation 
+ 3. Normalization 
+
+
+ After writing the code, the dat is Normalized. 
+
+
+ After the Normalization is done. We will use train, test and split.
+ this function will spilt our data into testing sets of data.
+
+
+ note: this fucntion() -1 ; all it means is the last one
